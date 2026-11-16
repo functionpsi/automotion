@@ -151,4 +151,4 @@ MIT License - see LICENSE file for details
 
 - Documentation: `/docs`
 - Issues: [GitHub Issues](https://github.com/functionpsi/automotion/issues)
-- Email: support@automotion.example.com
+- Contact: [X/Twitter @functionpsi](https://x.com/functionpsi)
